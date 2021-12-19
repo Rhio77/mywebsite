@@ -1,3 +1,21 @@
 h1{
+  font-family: sans-serif;
   color: #006D77;
+}
+h2{
+  font-family: sans-serif;
+  color: #E29578;
+}
+h3{
+  font-family: sans-serif;
+color: #006D77
+}
+body{
+  background-color: #EDF696
+}
+div{
+  background-color: #EDF696
+}
+p{
+  font-family: sans-serif;
 }
